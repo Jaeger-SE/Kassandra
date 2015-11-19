@@ -1,4 +1,4 @@
-﻿namespace Kassandra.Core.Events
+﻿namespace Kassandra.Events
 {
     public class QueryExecutionEventArgs
     {

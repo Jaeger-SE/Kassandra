@@ -1,7 +1,7 @@
 ﻿using System;
-using Kassandra.Core.Events;
+using Kassandra.Events;
 
-namespace Kassandra.Core
+namespace Kassandra
 {
     public interface ITransaction : IDisposable
     {

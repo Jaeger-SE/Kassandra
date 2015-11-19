@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Data.Common;
-using Kassandra.Core;
 
 namespace Kassandra.Data.SqlServer
 {

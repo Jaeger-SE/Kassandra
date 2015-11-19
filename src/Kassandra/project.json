@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.0.0-*",
-  "description": "Kassandra.Core Class Library",
-  "authors": [ "Esteban" ],
+  "version": "1.0.0",
+  "description": "Kassandra. Class Library",
+  "authors": [ "Esteban Goffaux" ],
   "tags": [ "" ],
   "projectUrl": "",
   "licenseUrl": "",

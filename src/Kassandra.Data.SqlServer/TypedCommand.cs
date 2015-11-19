@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Common;
-using Kassandra.Core;
-using Kassandra.Core.Events;
+using Kassandra.Events;
 
 namespace Kassandra.Data.SqlServer
 {

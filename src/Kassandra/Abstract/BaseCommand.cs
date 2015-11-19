@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Kassandra.Core.Events;
+using Kassandra.Events;
 
-namespace Kassandra.Core.Abstract
+namespace Kassandra.Abstract
 {
     public abstract class BaseCommand : ICommand
     {

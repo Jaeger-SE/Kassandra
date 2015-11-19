@@ -10,9 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Kassandra.Core", "src\Kassandra.Core\Kassandra.Core.xproj", "{57E1DF83-E8F6-4EFE-840D-A10376AC606F}"
-EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Kassandra.Data.SqlServer", "src\Kassandra.Data.SqlServer\Kassandra.Data.SqlServer.xproj", "{91FAE6DC-9BF0-45F7-B18E-B78F743C115E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Kassandra", "src\Kassandra\Kassandra.xproj", "{57E1DF83-E8F6-4EFE-840D-A10376AC606F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,20 +20,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91FAE6DC-9BF0-45F7-B18E-B78F743C115E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91FAE6DC-9BF0-45F7-B18E-B78F743C115E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91FAE6DC-9BF0-45F7-B18E-B78F743C115E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91FAE6DC-9BF0-45F7-B18E-B78F743C115E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E1DF83-E8F6-4EFE-840D-A10376AC606F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{57E1DF83-E8F6-4EFE-840D-A10376AC606F} = {5AC54050-1E54-4BE7-A522-DF511FB11A45}
 		{91FAE6DC-9BF0-45F7-B18E-B78F743C115E} = {5AC54050-1E54-4BE7-A522-DF511FB11A45}
+		{57E1DF83-E8F6-4EFE-840D-A10376AC606F} = {5AC54050-1E54-4BE7-A522-DF511FB11A45}
 	EndGlobalSection
 EndGlobal

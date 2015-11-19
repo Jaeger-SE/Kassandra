@@ -1,4 +1,4 @@
-﻿namespace Kassandra.Core
+﻿namespace Kassandra
 {
     public interface IReader
     {

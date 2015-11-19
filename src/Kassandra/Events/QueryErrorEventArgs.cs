@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kassandra.Core.Events
+namespace Kassandra.Events
 {
     public class QueryErrorEventArgs
     {

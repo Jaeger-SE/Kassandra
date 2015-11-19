@@ -1,6 +1,4 @@
-﻿using Kassandra.Core;
-
-namespace Kassandra.Data.SqlServer
+﻿namespace Kassandra.Data.SqlServer
 {
     public class CommandContext
     {
